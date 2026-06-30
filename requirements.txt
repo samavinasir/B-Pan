@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+numpy
+biopython>=1.81
+requests
