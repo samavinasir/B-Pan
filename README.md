@@ -6,7 +6,7 @@ BPAN is a pan-genome analysis tool with functional annotation (COG) for bacteria
 
 ## Setup
 
-1. Download `BPAN_Data.zip` from: **[Zenodo link goes here]**
+1. Download `BPAN_Data.zip` from: **https://zenodo.org/records/21079899**
 2. Extract it so the contents sit directly inside the repo as `Data/`:
    ```
    BPAN/
